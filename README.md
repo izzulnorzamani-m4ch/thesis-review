@@ -67,6 +67,13 @@ This skill is built to find those problems early, while there's still time to fi
 
 ## Installation
 
+**Which version should I use?**
+
+| You have… | Use |
+|---|---|
+| Claude Pro, Max, Team or Enterprise | The **full skill** (below): installs once, includes everything |
+| Claude Free, ChatGPT, Gemini or another AI assistant | The **[portable version](PORTABLE-VERSION.md)**: copy-paste instructions; untested outside Claude, so results may vary |
+
 ### Claude app (web, desktop, mobile)
 
 Requires a Pro, Max, Team or Enterprise plan with **code execution** enabled.
