@@ -99,6 +99,6 @@
 - Compare skill reviews with real examiner reports, with consent and ethics approval.
 - Use harder, subtler flaws and multiple runs per case.
 - Independent expert rating of review quality.
-- Collect real-world outcomes through the [feedback form](#) (does the readiness verdict match how examination went?).
+- Collect real-world outcomes through the [feedback form](https://forms.gle/YxwrCyRU8Teuwhje9) (does the readiness verdict match how examination went?).
 
 *Help wanted:* if you're a supervisor or examiner willing to contribute anonymised theses and examiner reports, please get in touch.

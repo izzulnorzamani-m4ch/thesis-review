@@ -159,6 +159,14 @@ Harder tests and comparisons with real examiner reports are next. Contributions 
 
 ---
 
+## Feedback
+
+Used the skill? **[Tell us how it went (2-minute form)](https://forms.gle/YxwrCyRU8Teuwhje9)**. Your answers help make the reviews more accurate, especially *what it missed* and *whether its verdict matched how your examination went*.
+
+Found a specific problem? You can also [open an issue](../../issues/new/choose).
+
+---
+
 ## Contributing
 
 Contributions are very welcome, especially:
@@ -180,6 +188,6 @@ Licensed under [Creative Commons Attribution-NonCommercial 4.0](https://creative
 
 ## Author
 
-   Created by **Izzul Norzamani** ([@izzulnorzamani-m4ch](https://github.com/izzulnorzamani-m4ch)). Built with Claude.
+Created by **Izzul Norzamani** ([@izzulnorzamani-m4ch](https://github.com/izzulnorzamani-m4ch)). Built with Claude.
 
 If this helped you, ⭐ the repo and share it with someone who's writing up.
