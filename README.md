@@ -80,7 +80,7 @@ On Team or Enterprise plans, your admin may need to allow custom skills.
 ### Claude Code
 
 ```bash
-git clone https://github.com/<your-username>/thesis-review.git
+git clone https://github.com/izzulnorzamani-m4ch/thesis-review.git
 cp -r thesis-review/thesis-review ~/.claude/skills/
 ```
 
@@ -180,6 +180,6 @@ Licensed under [Creative Commons Attribution-NonCommercial 4.0](https://creative
 
 ## Author
 
-Created by Izzul Norzamani ([@izzulnorzamani-m4ch(https://github.com/izzulnorzamani-m4ch)). Built with Claude.
+   Created by **Izzul Norzamani** ([@izzulnorzamani-m4ch](https://github.com/izzulnorzamani-m4ch)). Built with Claude.
 
 If this helped you, ⭐ the repo and share it with someone who's writing up.
