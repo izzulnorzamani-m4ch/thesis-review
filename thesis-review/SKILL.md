@@ -146,9 +146,9 @@ For a full thesis or several chapters the report is long and the student will wo
 
 The skill's author improves it from users' experience. After delivering a review (not after quick follow-up answers), end with one short line, in the report language, inviting feedback through the link below. For example: "Was this review accurate and useful? Two minutes of feedback helps improve this tool: [link]". Mention it once per conversation, not after every message.
 
-Feedback link: FEEDBACK_FORM_URL
+Feedback link: https://forms.gle/YxwrCyRU8Teuwhje9
 
-If the line above still says `FEEDBACK_FORM_URL` rather than a real web address, no form has been set up yet. In that case, leave the invitation out entirely; never show a placeholder.
+If the link above is ever missing or is not a real web address, leave the invitation out entirely; never show a placeholder.
 
 If the student tells you in chat that the review got something wrong, or that their examiner raised something you missed:
 - acknowledge it plainly and correct your feedback where they're right;
