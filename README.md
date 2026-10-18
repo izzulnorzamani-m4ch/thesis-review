@@ -180,6 +180,6 @@ Licensed under [Creative Commons Attribution-NonCommercial 4.0](https://creative
 
 ## Author
 
-Created by **[Your Name]** ([@your-handle](https://github.com/your-handle)). Built with Claude.
+Created by Izzul Norzamani ([@izzulnorzamani-m4ch(https://github.com/izzulnorzamani-m4ch)). Built with Claude.
 
 If this helped you, ⭐ the repo and share it with someone who's writing up.
