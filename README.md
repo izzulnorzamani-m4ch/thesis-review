@@ -2,6 +2,12 @@
 
 **Know what your examiners will say, before they say it.**
 
+<p align="center">
+  <img src="poster-en.png" alt="Thesis Review poster in English" width="45%">
+</p>
+
+⭐ **If this helps you, please star the repo** so other students can find it.
+
 `thesis-review` is a skill for [Claude](https://claude.ai). It reads a thesis the way a fair but demanding examiner would, then gives the student honest, prioritised, actionable feedback before submission or a defense.
 
 It works for **PhD dissertations, master's theses, undergraduate final year projects (FYP), and single thesis statements**, in **any field** and **any language**. It can also check a thesis against **your own university's requirements** and track whether your **examiners' comments** have actually been addressed.
